@@ -1,1 +1,1 @@
-# Bayesian_GLMs_-PyMC3-
+# Bayesian_GLMs_PyMC3
